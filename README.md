@@ -44,7 +44,7 @@
 </div>
 
 <br/>
-
+![snake gif](https://github.com/YOUR_USERNAME/ayushbenny/blob/output/github-contribution-grid-snake.gif)
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
