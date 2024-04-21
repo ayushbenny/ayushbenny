@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center" style="color: #1E90FF;">
-    <strong>Dynamic Code Wizard from India 🇮🇳</strong>
+    <strong>Transforming Ideas into Innovative Solutions</strong>
 </h3>
 
 
