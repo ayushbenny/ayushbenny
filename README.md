@@ -43,8 +43,14 @@
   <img src="https://skillicons.dev/icons?i=elasticsearch,kafka,rabbitmq,redis,docker,gitlab,vscode,postman,github,figma" /><br>
 </div>
 
-<br/>
-![snake gif](https://github.com/YOUR_USERNAME/ayushbenny/blob/output/github-contribution-grid-snake.gif)
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ayushbenny/ayushbenny/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
