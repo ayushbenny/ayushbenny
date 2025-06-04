@@ -270,7 +270,7 @@ me.say_hi()
       <td width="50%">
         <h3 align="center">🤖 E-Commerce API</h3>
         <div align="center">
-          <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=react&border_color=61dafb&border_radius=10" />
+<!--           <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=react&border_color=61dafb&border_radius=10" /> -->
           <br>
           <p><strong>Django • Redis • Celery • PostgreSQL</strong></p>
           <p>RESTful API for e-commerce platform with payment integration, inventory management, and order processing.</p>
