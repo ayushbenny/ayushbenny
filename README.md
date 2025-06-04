@@ -22,9 +22,9 @@
 class AyushBenny:
     def __init__(self):
         self.name = "Ayush Benny"
-        self.role = "Full Stack Developer"
+        self.role = "Software Engineer"
         self.location = "India"
-        self.education = "Computer Science Engineering"
+        self.education = "Electrical and Electronics Engineering"
         self.languages = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
         self.frameworks = ["FastAPI", "Flask", "Django", "React", "Node.js"]
         self.databases = ["PostgreSQL", "MongoDB", "MySQL", "Redis"]
@@ -42,7 +42,7 @@ me.say_hi()
 
 - 🔭 **Currently Building:** A comprehensive logistics web application using Python & FastAPI
 - 🌱 **Learning Journey:** Diving deep into Kubernetes and containerization technologies
-- 🎯 **2024 Goals:** Master cloud architecture and contribute to open source projects
+- 🎯 **2025 Goals:** Master cloud architecture and contribute to open source projects
 - 💡 **Fun Fact:** I solve coding puzzles daily to keep my problem-solving skills sharp!
 - 🎵 **Coding Playlist:** Lo-fi beats and instrumental music fuel my coding sessions
 
