@@ -74,6 +74,6 @@
 
 ### 📫 Get in Touch
 
-Feel free to reach out if you have any questions, proposals, or just want to connect! I'm always open to discussing new projects or opportunities.
+Feel free to reach out if you have any questions, proposals, or just want to connect! I'm always open to discussing new projects or opportunities. You can also connect with me on [**Topmate**](https://topmate.io/ayush_benny) for one-on-one conversations. 
 
 <br/>
