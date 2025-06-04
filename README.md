@@ -276,7 +276,7 @@ Others        25 mins        ░░░░░░░░░░░░░░░░░
       <td width="50%">
         <h3 align="center">🚚 Logistics Web Platform</h3>
         <div align="center">  
-          <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=react&border_color=61dafb&border_radius=10" />
+<!--           <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=react&border_color=61dafb&border_radius=10" /> -->
           <br>
           <p><strong>Python • FastAPI • PostgreSQL • Docker</strong></p>
           <p>Comprehensive logistics management system with real-time tracking, route optimization, and automated reporting features.</p>
@@ -314,25 +314,3 @@ Others        25 mins        ░░░░░░░░░░░░░░░░░
     </tr>
   </table>
 </div>
-
-### 🌟 Additional Projects
-
-<details>
-<summary><b>Click to explore more projects!</b></summary>
-
-- **🏥 Hospital Management System** - Full-stack web application with patient records, appointment scheduling, and billing system
-  - `Python` `Flask` `MySQL` `Bootstrap` `JavaScript`
-
-- **📈 Stock Market Analyzer** - Real-time stock price tracking with technical analysis and portfolio management
-  - `Python` `Pandas` `Matplotlib` `Alpha Vantage API` `Streamlit`
-
-- **🎮 Task Management Bot** - Discord bot for team productivity with deadline reminders and task assignments
-  - `Python` `Discord.py` `SQLite` `APScheduler`
-
-- **🌍 Weather Dashboard** - Interactive weather forecasting application with location-based services
-  - `JavaScript` `React` `OpenWeather API` `Chart.js` `CSS3`
-
-- **🔐 Password Manager** - Secure password storage with encryption and auto-generation features
-  - `Python` `Tkinter` `Cryptography` `SQLite`
-
-</details>
