@@ -1,4 +1,4 @@
-# 🚀 Ayush Benny - Full Stack Developer & Tech Innovator
+# 🚀 Ayush Benny - Software Engineer & Tech Innovator
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayushbenny.ayushbenny" />
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ayush+Benny!;Full+Stack+Developer;Tech+Innovator;Problem+Solver;Always+Learning!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ayush+Benny!Software+Engineer;Tech+Innovator;Problem+Solver;Always+Learning!;" />
 </div>
 
 <div align="center">
@@ -22,9 +22,9 @@
 class AyushBenny:
     def __init__(self):
         self.name = "Ayush Benny"
-        self.role = "Full Stack Developer"
+        self.role = "Software Engineer"
         self.location = "India"
-        self.education = "Computer Science Engineering"
+        self.education = "Electrical and Electronics Engineering"
         self.languages = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
         self.frameworks = ["FastAPI", "Flask", "Django", "React", "Node.js"]
         self.databases = ["PostgreSQL", "MongoDB", "MySQL", "Redis"]
@@ -79,20 +79,8 @@ me.say_hi()
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        <img src="https://img.shields.io/badge/LeetCode-110+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         <br><strong>Problems Solved</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HackerRank-5⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-        <br><strong>Python & SQL</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CodeChef-1800+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-        <br><strong>Rating</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-        <br><strong>Competitive Programming</strong>
       </td>
     </tr>
   </table>
@@ -152,10 +140,10 @@ me.say_hi()
 </div>
 
 ### 🎯 Recent Contributions
-- 🔧 **FastAPI Community**: Enhanced documentation for async database operations
-- 🐍 **Python Package**: Contributed bug fixes and performance improvements  
-- 📚 **Open Source Projects**: Active maintainer of logistics and data pipeline tools
-- 🌐 **Community Support**: Regular contributor to Stack Overflow and GitHub discussions
+- 🔍 **Code Reviews**: Ensured code quality and consistency through regular peer reviews
+- 👥 **Team Leadership**: Led development teams, coordinated tasks, and facilitated smooth project execution
+- 🎓 **Mentorship**: Supported junior developers with technical guidance and best practices
+- 🧱 **System Design**: Contributed to designing scalable and maintainable backend systems
 
 ---
 
@@ -182,19 +170,6 @@ me.say_hi()
     </tr>
   </table>
 </div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░   65.2%
-JavaScript    3 hrs 45 mins  ███░░░░░░░░░░░░░░░░░░   19.6%
-SQL           1 hr 20 mins   █░░░░░░░░░░░░░░░░░░░░    7.0%
-YAML          45 mins        ░░░░░░░░░░░░░░░░░░░░░    3.9%
-Docker        30 mins        ░░░░░░░░░░░░░░░░░░░░░    2.6%
-Others        25 mins        ░░░░░░░░░░░░░░░░░░░░░    1.7%
-```
 
 ---
 
@@ -285,23 +260,13 @@ Others        25 mins        ░░░░░░░░░░░░░░░░░
       <td width="50%">
         <h3 align="center">📊 Data Pipeline Engine</h3>
         <div align="center">
-          <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=react&border_color=61dafb&border_radius=10" />
+<!--           <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=react&border_color=61dafb&border_radius=10" /> -->
           <br>
           <p><strong>Kafka • Airflow • Python • Elasticsearch</strong></p>
           <p>Scalable data processing pipeline handling millions of events with automated scheduling and monitoring.</p>
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌐 Portfolio Website</h3>
-        <div align="center">
-          <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=react&border_color=61dafb&border_radius=10" />
-          <br>
-          <p><strong>React • Node.js • MongoDB</strong></p>
-          <p>Modern, responsive portfolio with interactive animations and dynamic content management.</p>
-        </div>
-      </td>
       <td width="50%">
         <h3 align="center">🤖 E-Commerce API</h3>
         <div align="center">
