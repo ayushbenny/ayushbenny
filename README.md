@@ -1,79 +1,123 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ayushbenny.ayushbenny" />
+# 🚀 Ayush Benny - Full Stack Developer & Tech Innovator
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Benny!;" />
-</h1>
-
-<h3 align="center" style="color: #1E90FF;">
-    <strong>Transforming Ideas into Innovative Solutions</strong>
-</h3>
-
-<br/>
-
-### 👨‍💻 About Me
 <div align="center">
-    <p>
-        🔭 Currently working on: <strong>a logistics web application using Python...</strong> <br>
-        🌱 Learning: <strong>Kubernetes and related containerization technologies</strong> 🐳☸️ <br>
-        💬 Ask me about: <strong>Python, Python Frameworks, Kafka, Airflow, Docker...</strong> <br>
-        💡 Tech Tip: <strong>Use list comprehensions in Python for more concise and readable list creation.</strong> <br>
-        ✨ Motivational Quote: <strong>"The only way to do great work is to love what you do." - Steve Jobs</strong> <br>
-        📝 Fun Fact: <strong>I enjoy solving puzzles and challenges to sharpen my problem-solving skills!</strong>
-    </p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayushbenny.ayushbenny" />
+  <img src="https://komarev.com/ghpvc/?username=ayushbenny&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/ayushbenny?logo=github&style=for-the-badge&color=0969da&labelColor=302d41" />
 </div>
 
-<div align="center"> 
-    <a href="mailto:ayushbenny001@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://www.linkedin.com/in/ayush-benny/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/u/AMBUSH4R_NBX/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" />
-    </a>
-</div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mysql,mongodb,linux,kali,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=elasticsearch,kafka,rabbitmq,redis,docker,gitlab,vscode,postman,github,figma" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ayush+Benny!;Full+Stack+Developer;Tech+Innovator;Problem+Solver;Always+Learning!;" />
 </div>
 
-<hr/>
-
-<h2 align="center">🌟 Featured Projects 🌟</h2>
 <div align="center">
-    - [**Logistics Web Application**](Link_to_Your_Project_1): A comprehensive platform built with Python and FastAPI to streamline logistics operations. <br>
-    - [**Personal Portfolio**](Link_to_Your_Project_2): A responsive portfolio website showcasing my projects and skills, developed using React and Node.js. <br>
-    - [**Data Pipeline with Kafka and Airflow**](Link_to_Your_Project_3): A robust solution for real-time data processing and scheduling tasks, utilizing Kafka and Apache Airflow.
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
 </div>
 
-<hr/>
+## 🎯 About Me
 
-<h2 align="center">📈 GitHub Stats 📈</h2>
-<br/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```python
+class AyushBenny:
+    def __init__(self):
+        self.name = "Ayush Benny"
+        self.role = "Full Stack Developer"
+        self.location = "India"
+        self.education = "Computer Science Engineering"
+        self.languages = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
+        self.frameworks = ["FastAPI", "Flask", "Django", "React", "Node.js"]
+        self.databases = ["PostgreSQL", "MongoDB", "MySQL", "Redis"]
+        self.tools = ["Docker", "Kubernetes", "Kafka", "Airflow", "AWS"]
+        self.currently_learning = ["Kubernetes", "Microservices", "DevOps"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = AyushBenny()
+me.say_hi()
+```
+
+### 🌟 What I'm Up To
+
+- 🔭 **Currently Building:** A comprehensive logistics web application using Python & FastAPI
+- 🌱 **Learning Journey:** Diving deep into Kubernetes and containerization technologies
+- 🎯 **2024 Goals:** Master cloud architecture and contribute to open source projects
+- 💡 **Fun Fact:** I solve coding puzzles daily to keep my problem-solving skills sharp!
+- 🎵 **Coding Playlist:** Lo-fi beats and instrumental music fuel my coding sessions
+
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=ayushbenny&show_icons=true&count_private=true&theme=react&border_radius=10" alt="readme stats"/>
-    <br/><br/>
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbenny&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### Tools & IDEs
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">🤝 Let's Connect 🤝</h2>
-<p align="center">
-    I'm always open to collaborating on exciting projects and connecting with fellow developers. <br>
-    Feel free to reach out via any of the platforms above or just drop me an email!
-</p>
+## 🏆 Featured Projects
 
-<hr/>
-
-### 📫 Get in Touch
-
-Feel free to reach out if you have any questions, proposals, or just want to connect! I'm always open to discussing new projects or opportunities. You can also connect with me on [**Topmate**](https://topmate.io/ayush_benny) for one-on-one conversations. 
-
-<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚚 Logistics Web Platform</h3>
+        <div align="center">  
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushbenny&repo=logistics-platform&theme=react&border_color=61dafb&border_radius=10" />
+          <br>
+          <p><strong>Python • FastAPI • PostgreSQL • Docker</strong></p>
+          <p>Comprehensive logistics management system with real-time tracking, route optimization, and automated reporting features.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 Data Pipeline Engine</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushbenny&repo=data-pipeline&theme=react&border_color=61dafb&border_radius=10" />
+          <br>
+          <p><strong>Kafka • Airflow • Python • Elasticsearch</strong></p>
+          <p>Scalable data processing pipeline handling millions of events with automated scheduling and monitoring.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌐 Portfolio Website</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushbenny&repo=portfolio&theme=react&border_color=61dafb&border_radius=10" />
+          <br>
+          <p><strong>React • Node.js • MongoDB</strong></p>
+          <p>Modern, responsive portfolio with interactive animations and dynamic content management.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🤖 AI Chat Assistant</h3>
